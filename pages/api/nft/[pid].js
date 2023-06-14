@@ -2,19 +2,19 @@ const data = [
     {
         id: 0,
         name: 'Octopus',
-        image: 'https://nft-marketplace-nextjs-roan.vercel.app/images/octopus0.png',
+        image: 'https://https://aquadream-vercel.vercel.app//images/octopus0.png',
         desc: 'Octopus'
     },
     {
         id: 1,
         name: 'Silver Octopus',
-        image: 'https://nft-marketplace-nextjs-roan.vercel.app/images/octopus1.png',
+        image: 'https://https://aquadream-vercel.vercel.app//images/octopus1.png',
         desc: 'Silver Octopus'
     },
     {
         id: 2,
         name: 'Gold Octopus',
-        image: 'https://nft-marketplace-nextjs-roan.vercel.app/images/octopus2.png',
+        image: 'https://https://aquadream-vercel.vercel.app//images/octopus2.png',
         desc: 'Gold Octopus'
     }
 ]
