@@ -2,19 +2,19 @@ const data = [
     {
         id: 0,
         name: 'Octopus',
-        image: 'https://https://aquadream-vercel.vercel.app//images/octopus0.png',
+        image: 'https://aquadream-vercel.vercel.app/images/octopus0.jpg',
         desc: 'Octopus'
     },
     {
         id: 1,
         name: 'Silver Octopus',
-        image: 'https://https://aquadream-vercel.vercel.app//images/octopus1.png',
+        image: 'https://aquadream-vercel.vercel.app/images/octopus1.jpg',
         desc: 'Silver Octopus'
     },
     {
         id: 2,
         name: 'Gold Octopus',
-        image: 'https://https://aquadream-vercel.vercel.app//images/octopus2.png',
+        image: 'https://aquadream-vercel.vercel.app/images/octopus2.jpg',
         desc: 'Gold Octopus'
     }
 ]
